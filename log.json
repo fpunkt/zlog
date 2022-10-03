@@ -1,0 +1,7 @@
+{"_zl":"info","_zts":1664701606,"_zm":"ok"}
+{"_zl":"warn","n":3,"file":"myfile.go","message":"Test Message","_zts":1664701606,"_zm":"This was an error"}
+{"_zl":"debug","i":0,"msg":"msg #0","_zts":1664701606,"_zm":"debug message"}
+{"_zl":"debug","i":1,"msg":"msg #1","_zts":1664701606,"_zm":"debug message"}
+{"_zl":"debug","i":2,"msg":"msg #2","_zts":1664701606,"_zm":"debug message"}
+{"_zl":"debug","i":3,"msg":"msg #3","_zts":1664701606,"_zm":"debug message"}
+{"_zl":"debug","i":4,"msg":"msg #4","_zts":1664701606,"_zm":"debug message"}
