@@ -59,6 +59,9 @@ var (
 // Use zlog.New() if you need more flexibility
 func InitL(level int) { log.Logger = New(Options{Level: level}) }
 
+// Init new console logger with given level and high-resolution timestamp
+func InitLHR(level int) { log.Logger = New(Options{Level: level, TimeFormat: "highres"}) }
+
 // Init new console logger with level 0. This will set the global zerolog.log.Logger
 // Use zlog.New() if you need more flexibility
 func Init() { InitL(0) }
